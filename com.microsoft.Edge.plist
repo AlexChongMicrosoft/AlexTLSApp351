@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>FavoritesBarEnabled</key>
-    <true/>
-    <key>HomepageLocation</key>
-    <string>https://www.contoso.com</string>
-    <key>PasswordManagerEnabled</key>
-    <false/>
-    <key>DefaultSearchProviderEnabled</key>
-    <true/>
-    <key>ExtensionInstallForcelist</key>
-    <array>
-      <string>ncoafaeidnkeafiehpkfoeklhajkpgij</string>
-    </array>
-  </dict>
+<dict>
+  <key>FavoritesBarEnabled</key>
+  <true/>
+  <key>HomepageLocation</key>
+  <string>https://www.contoso.com</string>
+  <key>PasswordManagerEnabled</key>
+  <false/>
+  <key>DefaultSearchProviderEnabled</key>
+  <true/>
+  <key>DefaultSearchProviderSearchURL</key>
+  <string>{google:baseURL}search?q={searchTerms}&temp;{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:searchClient}{google:sourceId}ie={inputEncoding}</string>
+  <key>ExtensionInstallForcelist</key>
+  <array>
+    <string>ncoafaeidnkeafiehpkfoeklhajkpgij</string>
+  </array>
+</dict>
 </plist>
