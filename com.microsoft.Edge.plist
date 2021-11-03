@@ -11,7 +11,7 @@
   <key>DefaultSearchProviderEnabled</key>
   <true/>
   <key>DefaultSearchProviderSearchURL</key>
-  <string>{google:baseURL}search?q={searchTerms}&temp;{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:searchClient}{google:sourceId}ie={inputEncoding}</string>
+  <string>{google:baseURL}search?q={searchTerms}&amp;{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:searchClient}{google:sourceId}ie={inputEncoding}</string>
   <key>ExtensionInstallForcelist</key>
   <array>
     <string>ncoafaeidnkeafiehpkfoeklhajkpgij</string>
