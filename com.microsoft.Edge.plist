@@ -14,8 +14,7 @@
   <string>{google:baseURL}search?q={searchTerms}&amp;{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:searchClient}{google:sourceId}ie={inputEncoding}</string>
   <key>ExtensionInstallForcelist</key>
   <array>
-    <string>ncoafaeidnkeafiehpkfoeklhajkpgij;https://edge.microsoft.com/extensionwebstorebase/v1/crx</string>
-    
+    <string>ncoafaeidnkeafiehpkfoeklhajkpgij;https://edge.microsoft.com/extensionwebstorebase/v1/crx</string>    
   </array>
 </dict>
 </plist>
