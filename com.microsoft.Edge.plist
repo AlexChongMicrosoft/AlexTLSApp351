@@ -5,7 +5,7 @@
   <key>FavoritesBarEnabled</key>
   <true/>
   <key>HomepageLocation</key>
-  <string>https://www.contoso.com</string>
+  <string>https://www.bing.com</string>
   <key>PasswordManagerEnabled</key>
   <false/>
   <key>DefaultSearchProviderEnabled</key>
@@ -14,7 +14,8 @@
   <string>{google:baseURL}search?q={searchTerms}&amp;{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:searchClient}{google:sourceId}ie={inputEncoding}</string>
   <key>ExtensionInstallForcelist</key>
   <array>
-    <string>ncoafaeidnkeafiehpkfoeklhajkpgij</string>
+    <string>ncoafaeidnkeafiehpkfoeklhajkpgij;https://edge.microsoft.com/extensionwebstorebase/v1/crx</string>
+    
   </array>
 </dict>
 </plist>
